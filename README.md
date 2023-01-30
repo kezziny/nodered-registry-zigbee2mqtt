@@ -1,0 +1,1 @@
+# nodered-registry-zigbee2mqtt
